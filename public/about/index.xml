@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Dan Hunts For WIMPs</title>
+    <link>//localhost:1313/about/</link>
+    <description>Recent content in Abouts on Dan Hunts For WIMPs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2024 15:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;who-are-you&#34;&gt;Who are you?&lt;/h2&gt;&#xA;&lt;p&gt;My name&amp;rsquo;s Dan. I&amp;rsquo;m a Postdoc at UT Austin looking into the direct detection of dark matter, through analysis of data from the LUX-ZEPLIN experiment, as well as through crystal xenon, through R&amp;amp;D on CrystaLiZe. Before that, I finished my masters at the University of Birmingham NA62, did some part time work on NEWS-G, and completed my DPhil at the University of Oxford on LZ.&lt;/p&gt;&#xA;&lt;h2 id=&#34;where-does-that-highway-go-to&#34;&gt;Where does that highway go to?&lt;/h2&gt;&#xA;&lt;p&gt;If it goes well, it&amp;rsquo;ll go to the discovery of a low-mass dark matter signal in LZ, 8B CEvNS discovery to 5 sigma, the adaptation of LZ to a crystal xenon TPC by the end of the decade, and a cushy research job on XLZD operation in the UK.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

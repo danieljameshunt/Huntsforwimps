@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OtherSearches on Dan Hunts For WIMPs</title>
+    <link>//localhost:1313/othersearches/</link>
+    <description>Recent content in OtherSearches on Dan Hunts For WIMPs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2024 15:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/othersearches/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Other Searches</title>
+      <link>//localhost:1313/othersearches/</link>
+      <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
+      <guid>//localhost:1313/othersearches/</guid>
+      <description>&lt;p&gt;Describe other searches here, with paper citations&lt;/p&gt;&#xA;&lt;p&gt;MIMP searches&lt;/p&gt;&#xA;&lt;p&gt;EFT coupling&lt;/p&gt;&#xA;&lt;p&gt;High energy ER&lt;/p&gt;&#xA;&lt;p&gt;DPE analysis&lt;/p&gt;&#xA;&lt;p&gt;S2-Only analysis&lt;/p&gt;&#xA;&lt;p&gt;Migdal effect&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

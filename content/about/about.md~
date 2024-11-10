@@ -1,0 +1,36 @@
+---
+title: "About Me"
+date: 2024-03-28T15:00:00+00:00
+draft: false
+layout: "terms"
+description: "About - {{ .Site.Title }}"
+url: "/about"
+---
+
+## How did I get here?
+
+My name's Dan. I'm a researcher specialising in the direct detection of dark matter. My high school teachers always told me I asked a lot of questions: it turns out, if you ask enough, you're eventually going to have to find answers yourself.
+
+## How do I work this?
+
+My work is on the other webpage, actually, under 'LZ'. But otherwise I work on watching a lot of movies, swimming, brewing alcohol, gardening, and community action.
+
+## Where is that large automobile?
+
+I *can* drive, but try not to when I can. In the UK, I worked with ACORN, the community union, for a year: one of our key goals was to increase campaign action for a greener Britain, starting with bus nationalization.
+
+## What is that beautiful house?
+
+It's not that lovely. But I grew up in a house in the UK in Wickersley, Rotherham, then spent four years in Birmingham, and then four more in Oxford.
+
+## Where does that highway go to?
+
+Hopefully to some lucrative results! I'll describe them here when I can.
+
+## Am I right? Am I wrong?
+
+I can't be the judge of that. Message through the links on the home page!
+
+## What have I done?
+
+I've taken up a lot of your time with a very strained Talking Heads reference. Sorry for that!

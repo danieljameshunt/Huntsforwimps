@@ -1,0 +1,22 @@
+---
+title: "Other Searches"
+date: 2024-03-28T15:00:00+00:00
+draft: false
+layout: "terms"
+description: "Other Searches - {{ .Site.Title }}"
+url: "/othersearches"
+---
+
+Describe other searches here, with paper citations
+
+MIMP searches
+
+EFT coupling
+
+High energy ER
+
+DPE analysis
+
+S2-Only analysis
+
+Migdal effect

@@ -1,0 +1,82 @@
+baseURL: 'DanHuntsFor.WIMPs'
+languageCode: 'en-us'
+title: 'Dan Hunts For WIMPs'
+theme: 'terminal'
+timeZone: "Asia/Kolkata"
+
+menus:
+  main:
+    - identifier: "About Me"
+      name: About Me
+      url: /about
+      weight: 20
+    - identifier: "Dark Matter"
+      name: Dark Matter
+      url: /darkMatter
+      weight: 30
+    - identifier: "Detection"
+      name: Detection
+      url: /detection
+      weight: 30
+    - identifier: "LuxZeplin"
+      name: LZ
+      url: /lz
+      weight: 40
+    - identifier: "Other Searches"
+      name: Other Searches
+      url: /otherSearches
+      weight: 40
+    - identifier: "CV"
+      name: CV
+      url: /CV.pdf
+      weight: 40
+     
+paginate: 10
+permalinks:
+  blog: "/blog/:year/:month/:day/:title/"
+taxonomies:
+  tag: "tags"
+  author: "authors"
+indexes:
+  tag: "tags"
+markup:
+  defaultMarkdownHandler: "goldmark"
+  goldmark:
+    # Enable or disable smartypants (automatic conversion of ASCII punctuation to smart punctuation)
+    smartypants: true
+    # Enable or disable fractions (automatic conversion of fractions)
+    fractions: true
+    # Enable or disable superscript and subscript support
+    # (enable to allow ^ and ~ for superscript and subscript)
+    superscript: true
+    unsafe: true
+ignoreFiles:
+   - themes/terminal/content
+   - themes/terminal/layouts/_default
+ #outputs:
+ #  blog:
+ #    - HTML
+ #    - RSS
+ #    - sitemap-blog.xml
+ #  home:
+ #    - HTML
+ #    - RSS
+ #    - sitemap.xml
+params:
+  social:
+    - name: "github"
+      url: https://github.com/danieljameshunt
+    - name: "x"
+      url: https://x.com/HuntsForWIMPs
+    - name: "bluesky"
+      url: https://bsky.app/profile/huntsforwimps.bsky.social
+    - name: "linkedin"
+      url: https://linkedin.com/in/dan-hunt-physics
+    - name: "buy me a coffee"
+      url: https://www.buymeacoffee.com/HuntsForWIMPs
+      
+
+module:
+  hugoVersion:
+    extended: false
+    min: "0.116.0"

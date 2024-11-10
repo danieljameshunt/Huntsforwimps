@@ -1,0 +1,28 @@
+---
+title: "Dark Matter"
+date: 2024-03-28T15:00:00+00:00
+draft: false
+layout: "terms"
+description: "Dark Matter - {{ .Site.Title }}"
+url: "/darkmatter"
+---
+
+Explain galaxy rotation curves
+
+![galRotPy](images/GalRotpy_fit.png)
+
+Explain the bullet cluster
+
+![bulletCluster](images/Bullet-Cluster-Contours-Remastered-1.png)
+
+Explain CMB
+
+![CMB](images/Planck-2018-Cosmological-Parameters-Oscillations-1.png)
+
+Explain freeze-out mechanism
+
+![FreezeOut](images/WIMP-Freezeout.png)
+
+Elaborate that there's plenty more candidates out there!
+
+![DMMasses](images/DMLandscape_SansSerif-1.png)

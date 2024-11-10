@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Detections on Dan Hunts For WIMPs</title>
+    <link>//localhost:1313/detection/</link>
+    <description>Recent content in Detections on Dan Hunts For WIMPs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2024 15:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/detection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detection</title>
+      <link>//localhost:1313/detection/</link>
+      <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
+      <guid>//localhost:1313/detection/</guid>
+      <description>&lt;p&gt;So, how do we place limits on dark matter? Well, we can &amp;lsquo;make it&amp;rsquo;, &amp;lsquo;shake it&amp;rsquo;, or &amp;lsquo;break it&amp;rsquo;. Imagine an interaction between dark matter and regular matter, in any direction:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;DM_Interaction.png&#34; alt=&#34;galRotPy&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;break-it&#34;&gt;Break it&lt;/h1&gt;&#xA;&lt;p&gt;Take this diagram from the bottom upwards: two standard model particles come in, two dark matter particles come out. This is how the LHC and the ATLAS experiment work: fire protons at one another, look to see if anything interesting comes out. They found the Higgs, and haven&amp;rsquo;t found much since.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

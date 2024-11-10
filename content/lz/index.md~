@@ -1,0 +1,40 @@
+---
+title: "lz"
+date: 2024-03-28T15:00:00+00:00
+draft: false
+layout: "terms"
+description: "LUX-ZEPLIN - {{ .Site.Title }}"
+url: "/lz"
+---
+
+What does LZ look like?
+
+![galRotPy](fig1.png)
+
+Where are the fields in LZ?
+
+![galRotPy](TPCSchematic.png)
+
+What does a recoil look like in LZ?
+
+![galRotPy](RecoilIllustration.png)
+
+An S1 and an S2?
+
+![galRotPy](Handscan_2.png)
+
+the XY position?
+
+![galRotPy](PMT_Hitmap.png)
+
+Put the SR3 result here!
+
+![galRotPy](SR1Results.png)
+
+How's our sensitivity?
+
+![galRotPy](WIMP_Sensitivity.png)
+
+Finally, the logo, with a link to spectator
+
+![galRotPy](LZ.png)

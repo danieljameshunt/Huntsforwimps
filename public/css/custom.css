@@ -1,0 +1,6 @@
+body.home {
+    background-image: url('DarkMatter.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

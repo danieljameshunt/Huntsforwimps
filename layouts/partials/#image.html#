@@ -1,0 +1,7 @@
+{{ with .Params.banner }}
+  {{ with resources.Get . }}
+    {{ with .Fill "400x100 webp" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+{{ end }}

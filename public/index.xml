@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Dan Hunts For WIMPs</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Home on Dan Hunts For WIMPs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2024 15:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;who-are-you&#34;&gt;Who are you?&lt;/h2&gt;&#xA;&lt;p&gt;My name&amp;rsquo;s Dan. I&amp;rsquo;m a Postdoc at UT Austin looking into the direct detection of dark matter, through analysis of data from the LUX-ZEPLIN experiment, as well as through crystal xenon, through R&amp;amp;D on CrystaLiZe. Before that, I finished my masters at the University of Birmingham NA62, did some part time work on NEWS-G, and completed my DPhil at the University of Oxford on LZ.&lt;/p&gt;&#xA;&lt;h2 id=&#34;where-does-that-highway-go-to&#34;&gt;Where does that highway go to?&lt;/h2&gt;&#xA;&lt;p&gt;If it goes well, it&amp;rsquo;ll go to the discovery of a low-mass dark matter signal in LZ, 8B CEvNS discovery to 5 sigma, the adaptation of LZ to a crystal xenon TPC by the end of the decade, and a cushy research job on XLZD operation in the UK.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dark Matter</title>
+      <link>//localhost:1313/darkmatter/</link>
+      <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
+      <guid>//localhost:1313/darkmatter/</guid>
+      <description>&lt;h1 id=&#34;so-what-is-dark-matter&#34;&gt;So what is dark matter?&lt;/h1&gt;&#xA;&lt;p&gt;Honestly, your guess is as good as ours, more or less. To paraphrase the Simpsons, &amp;lsquo;Matter&amp;rsquo; means mass and &amp;lsquo;Dark&amp;rsquo; means dark (does not emit light). Any more detail than that? Answers on a postcard, please.&lt;/p&gt;&#xA;&lt;h1 id=&#34;hang-on-so-how-do-we-know-this-is-even-real&#34;&gt;Hang on, so how do we know this is even &lt;em&gt;real&lt;/em&gt;?&lt;/h1&gt;&#xA;&lt;p&gt;So we know dark matter has mass. How do we see things with mass but not light? One way is to look at how it influences matter around it. This was how we first found evidence of dark matter - Vera Rubin and Kent Ford&amp;rsquo;s measurements of the rotation of galaxies, which is proportional to the mass in a galaxy. Measurements of this suggested not only a diffuse and inconsistent distribution of mass in galaxies, but that this mass was 5x what was expected from light emissions nearby!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Detection</title>
+      <link>//localhost:1313/detection/</link>
+      <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
+      <guid>//localhost:1313/detection/</guid>
+      <description>&lt;p&gt;So, how do we place limits on dark matter? Well, we can &amp;lsquo;make it&amp;rsquo;, &amp;lsquo;shake it&amp;rsquo;, or &amp;lsquo;break it&amp;rsquo;. Imagine an interaction between dark matter and regular matter, in any direction:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;DM_Interaction.png&#34; alt=&#34;galRotPy&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;break-it&#34;&gt;Break it&lt;/h1&gt;&#xA;&lt;p&gt;Take this diagram from the bottom upwards: two standard model particles come in, two dark matter particles come out. This is how the LHC and the ATLAS experiment work: fire protons at one another, look to see if anything interesting comes out. They found the Higgs, and haven&amp;rsquo;t found much since.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LZ</title>
+      <link>//localhost:1313/lz/</link>
+      <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
+      <guid>//localhost:1313/lz/</guid>
+      <description>&lt;h1 id=&#34;what-is-lz&#34;&gt;What is LZ?&lt;/h1&gt;&#xA;&lt;p&gt;LZ, or LUX-ZEPLIN, is a second generation dual phase LXe Time Projection Chamberfor the detection of dark matter. It&amp;rsquo;s located in the Sanford Underground Research Facility (SURF).&lt;/p&gt;&#xA;&lt;h1 id=&#34;that-answered-none-of-my-questions-those-were-just-buzzwords&#34;&gt;That answered none of my questions! Those were just buzzwords!&lt;/h1&gt;&#xA;&lt;p&gt;This might help. Here&amp;rsquo;s a diagram of LZ, with a person for scale. It&amp;rsquo;s a matryoshka of a liquid xenon tank, inside of a skin xenon layer, inside of a GDLS tank, inside of a water tank, inside of the Davis Cavern.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Other Searches</title>
+      <link>//localhost:1313/othersearches/</link>
+      <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
+      <guid>//localhost:1313/othersearches/</guid>
+      <description>&lt;h1 id=&#34;whats-next&#34;&gt;What&amp;rsquo;s next?&lt;/h1&gt;&#xA;&lt;p&gt;Well, LZ has a fair amount of life left in it, so there&amp;rsquo;ll be more limits. My goal for the next couple of years is to lower our energy threshold however possible: whether that&amp;rsquo;s removing accidental backgrounds and lowering our minimum accepted S1 and S2 size, improving our pulse classification software to better accept small S2s, or low-energy analyses.&lt;/p&gt;&#xA;&lt;h1 id=&#34;hang-on-whats-that-last-part&#34;&gt;Hang on, what&amp;rsquo;s that last part?&lt;/h1&gt;&#xA;&lt;p&gt;So LZ analysis so far has looked at S1-S2 events, with three photons making up an S1. But a light enough dark matter particle would produce so little energy in the TPC that the S1 might not be produced, or might end up below detection threshold. So there&amp;rsquo;s searches on the horizon using what&amp;rsquo;s known as the DPE effect, analysis of only S2s, and analysis of data assuming the Migdal effect. All of these combined will leave LZ sensitive to masses as low as 30MeV!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

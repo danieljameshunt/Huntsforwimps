@@ -1,0 +1,17 @@
+---
+title: "Detection"
+date: 2024-03-28T15:00:00+00:00
+draft: false
+layout: "terms"
+description: "Detection - {{ .Site.Title }}"
+url: "/detection"
+---
+
+Detection is "make it, shake it, or break it"
+
+![galRotPy](DM_Interaction.png)
+
+Experiments have improved a lot over the years!
+
+![galRotPy](DM_Past_Present_Future.png)
+

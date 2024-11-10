@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DarkMatters on Dan Hunts For WIMPs</title>
+    <link>//localhost:1313/darkmatter/</link>
+    <description>Recent content in DarkMatters on Dan Hunts For WIMPs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2024 15:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/darkmatter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dark Matter</title>
+      <link>//localhost:1313/darkmatter/</link>
+      <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
+      <guid>//localhost:1313/darkmatter/</guid>
+      <description>&lt;h1 id=&#34;so-what-is-dark-matter&#34;&gt;So what is dark matter?&lt;/h1&gt;&#xA;&lt;p&gt;Honestly, your guess is as good as ours, more or less. To paraphrase the Simpsons, &amp;lsquo;Matter&amp;rsquo; means mass and &amp;lsquo;Dark&amp;rsquo; means dark (does not emit light). Any more detail than that? Answers on a postcard, please.&lt;/p&gt;&#xA;&lt;h1 id=&#34;hang-on-so-how-do-we-know-this-is-even-real&#34;&gt;Hang on, so how do we know this is even &lt;em&gt;real&lt;/em&gt;?&lt;/h1&gt;&#xA;&lt;p&gt;So we know dark matter has mass. How do we see things with mass but not light? One way is to look at how it influences matter around it. This was how we first found evidence of dark matter - Vera Rubin and Kent Ford&amp;rsquo;s measurements of the rotation of galaxies, which is proportional to the mass in a galaxy. Measurements of this suggested not only a diffuse and inconsistent distribution of mass in galaxies, but that this mass was 5x what was expected from light emissions nearby!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
